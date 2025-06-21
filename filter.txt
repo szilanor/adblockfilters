@@ -149,3 +149,5 @@
 ||tracking.intl.miui.com^
 ||tracking.india.miui.com^
 ||securemetrics.apple.com^
+||d.reddit.com^
+||hotjar-analytics.com^
