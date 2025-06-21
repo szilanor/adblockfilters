@@ -140,3 +140,12 @@
 ||books-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
+||media.fastclick.net^
+||affiliationjs.s3.amazonaws.com^
+||ads.facebook.com^
+||advertising.twitter.com^
+||ads-dev.pinterest.com^
+||ads.reddit.com^
+||tracking.intl.miui.com^
+||tracking.india.miui.com^
+||securemetrics.apple.com^
