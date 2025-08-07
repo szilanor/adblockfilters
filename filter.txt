@@ -151,3 +151,5 @@
 ||securemetrics.apple.com^
 ||d.reddit.com^
 ||hotjar-analytics.com^
+
+||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
